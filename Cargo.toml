@@ -1,0 +1,9 @@
+[package]
+name = "rust-snake"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+piston2d-opengl_graphics = "0.85.1"
+piston_window = "0.132.0"
+rand = "0.8.5"
